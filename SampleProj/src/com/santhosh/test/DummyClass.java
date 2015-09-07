@@ -1,5 +1,5 @@
 package com.santhosh.test;
 
 public class DummyClass {
-System.out.println('test');
+System.out.println('testing');
 }
