@@ -6,6 +6,6 @@ public static void main(String args[]) {
 }
 public void getdummy()
 {
-	System.out.println("Dummy msg");
+	System.out.println("Dummy msg testing");
 }
 }
